@@ -1,2 +1,2 @@
 # MyTribute Page for Tony
-<a href="https://giftedgeek.github.io/MyWebPages"> Here you go </a>
+<a href="https://giftedgeek.github.io/TonyTributePage/"> Here you go </a>
